@@ -1,3 +1,4 @@
 main data
 data of C
 data of child C
+second data of child C
