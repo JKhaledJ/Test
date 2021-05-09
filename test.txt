@@ -1,2 +1,3 @@
 main data
 data of C
+data of child C
